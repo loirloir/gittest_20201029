@@ -9,7 +9,10 @@
 <body>
 <h1>test1.jsp</h1>
 <h1>test1</h1>
+<<<<<<< HEAD
 	<h1>git test</h1>
 <h1>eclipse test2</h1>
+    <h1>git test</h1>
+    <h1>github test2</h1>
 </body>
 </html>
